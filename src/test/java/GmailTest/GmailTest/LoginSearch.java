@@ -41,6 +41,7 @@ public class LoginSearch {
 		}
 		finally{
 			driver.close();
+			System.out.println("this is my test to check gmail");
 		}
 
 }
